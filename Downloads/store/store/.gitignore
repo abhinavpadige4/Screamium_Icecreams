@@ -1,1 +1,33 @@
+# Windows system files
+Application Data/
+Cookies/
+Documents/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+Favorites/
+Links/
+Saved Games/
+Searches/
+Videos/
+OneDrive/
+ntuser*
+
+# Other unneeded files
+*.exe
+*.msi
+*.zip
+*.mp3
+*.mp4
+*.jpg
+*.png
+*.pdf
+*.csv
+*.docx
+*.xlsx
 
